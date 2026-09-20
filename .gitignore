@@ -1,0 +1,16 @@
+# Dataset
+Mall_Customers.csv
+
+# Generated root CSV
+customer_segments.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
